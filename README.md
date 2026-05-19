@@ -20,8 +20,10 @@ Com mais de 15 anos de experiência liderando projetos criativos e gerindo equip
 * **Descrição:** Durante a conclusão do curso "Learn Testing" da Google, identifiquei e documentei um erro de quebra de link (404) no botão de redirecionamento para o teste final da plataforma.
 * **Ação de QA:** Em vez de contornar o problema, atuei proativamente abrindo um relatório formal detalhado (Bug Report) utilizando a ferramenta oficial **Google Issue Tracker** (ID 513478485), seguindo as melhores práticas de documentação técnica (Passos para reproduzir, Comportamento esperado vs. Atual e anexação de evidências).
 * **Ferramentas utilizadas:** Google Issue Tracker, Chrome DevTools.
-* **Status:** Reportado oficialmente à engenharia do Google e documentado no LinkedIn.
+* **Status:** Aceito oficialmente pela engenharia da Google e atualmente em resolução (In Progress).
 * <img width="1168" height="1217" alt="Captura de Tela 2026-05-15 às 14 54 51" src="https://github.com/user-attachments/assets/f1eed272-f3df-4695-882f-bfb7a270383c" />
+<img width="1684" height="1183" alt="Captura de Tela 2026-05-19 às 18 45 44" src="https://github.com/user-attachments/assets/374ffb0c-0533-4468-ae24-0f3b7d69f464" />
+
 
 
 ---
