@@ -23,6 +23,8 @@ Com mais de 15 anos de experiência liderando projetos criativos e gerindo equip
 * **Status:** Corrigido e encerrado com sucesso pela engenharia da Google após validação do fluxo.
 * <img width="1168" height="1217" alt="Captura de Tela 2026-05-15 às 14 54 51" src="https://github.com/user-attachments/assets/f1eed272-f3df-4695-882f-bfb7a270383c" />
 <img width="1684" height="1183" alt="Captura de Tela 2026-05-19 às 18 45 44" src="https://github.com/user-attachments/assets/374ffb0c-0533-4468-ae24-0f3b7d69f464" />
+<img width="1445" height="1197" alt="Captura de Tela 2026-05-20 às 10 02 31" src="https://github.com/user-attachments/assets/c2f7e7b8-b097-4ba1-b8cc-a197daf89a8d" />
+
 
 
 
